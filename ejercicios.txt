@@ -1,0 +1,22 @@
+Arrays
+    1. Encontrar el segundo elemento mínimo de un arreglo
+    2. Los primeros enteros no repetidos en un arreglo
+    3. Combinar dos arreglos ordenados
+    4. Reordenar los valores positivos y negativos en un arreglo
+
+Listas enlazadas
+    Invertir una lista enlazada
+    Detectar bucle en una lista enlazada
+    Devolver el nodo N del final de una lista enlazada
+    Eliminar duplicados de una lista enlazada
+
+Pilas
+    Evaluar una expresión postfijas usando una pila
+    Ordenar valores en una pila
+    Comprobar paréntesis equilibrados en una expresión
+
+Colas
+    Implementar una pila usando una cola
+    Invertir los primeros k elementos de una cola
+    Generar números binarios desde 1 hasta n usando una cola
+
