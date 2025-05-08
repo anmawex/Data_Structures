@@ -5,18 +5,18 @@ Arrays
     4. Reordenar los valores positivos y negativos en un arreglo
 
 Listas enlazadas
-    Invertir una lista enlazada
-    Detectar bucle en una lista enlazada
-    Devolver el nodo N del final de una lista enlazada
-    Eliminar duplicados de una lista enlazada
+    1. Invertir una lista enlazada
+    2. Detectar bucle en una lista enlazada
+    3. Devolver el nodo N del final de una lista enlazada
+    4. Eliminar duplicados de una lista enlazada
 
 Pilas
-    Evaluar una expresión postfijas usando una pila
-    Ordenar valores en una pila
-    Comprobar paréntesis equilibrados en una expresión
+    1. Evaluar una expresión postfijas usando una pila
+    2. Ordenar valores en una pila
+    3. Comprobar paréntesis equilibrados en una expresión
 
 Colas
-    Implementar una pila usando una cola
-    Invertir los primeros k elementos de una cola
-    Generar números binarios desde 1 hasta n usando una cola
+    1. Implementar una pila usando una cola
+    2. Invertir los primeros k elementos de una cola
+    3. Generar números binarios desde 1 hasta n usando una cola
 
