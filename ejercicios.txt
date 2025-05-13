@@ -20,3 +20,27 @@ Colas
     2. Invertir los primeros k elementos de una cola
     3. Generar números binarios desde 1 hasta n usando una cola
 
+Tablas Hash
+    1. Hallar pares simétricos en un arreglo
+    2. Trazar el camino completo de un viaje
+    3. Hallar si un arreglo es un subconjunto de otro arreglo
+    4. Comprobar si arreglos dados son disjuntos
+
+Árboles
+    1. Hallar la altura de un árbol binario
+    2. Hallar el k-ésimo valor máximo en un árbol de búsqueda binaria
+    3. Hallar los nodos a "k" distancia desde la raíz
+    4. Hallar los ancestros de un nodo dado en un árbol binario
+
+Tries
+    1. Contar el número total de palabras en un Trie
+    2. Imprimir todas las palabras almacenadas en un Trie
+    3. Ordenar los elementos de un arreglo usando un Trie
+    4. Formar palabras a partir de un diccionario usando un Trie
+    5. Construir un diccionario T9
+
+Grafos
+    1. Implementar Recorrido en Amplitud o Anchura y en Profundidad
+    2. Comprobar si un grafo es un árbol o no
+    3. Contar el número de aristas en un grafo
+    4. Encontrar el camino más corto entre dos vértices
